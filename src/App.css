@@ -63,8 +63,8 @@
 @media (max-width: 425px) {
     .titulo_pagina_principal{
         position: absolute;
-        width: 250px;
-        height: 40px;
+        width: 290px;
+        height: 50px;
         margin-top: 60px;
     }
     .subtitulo_pagina_principal{
@@ -95,6 +95,14 @@
     
     
 }
+
+
+
+
+
+
+
+
 
 /*********************************/
 
@@ -425,7 +433,7 @@ border-color: #ABDAC6;
 
 .pokecard_tercera{
     width: 100%;
-    max-width: 70%;
+    max-width: 90%;
     border: 0.7em solid #ccc;
     border-radius: 0.7em;
     /* cursor: pointer;
@@ -576,9 +584,6 @@ border-color: #ABDAC6;
         width: 100%;
         height: 10px;
     } */
-    .pokecard_tercera{
-        max-width: 90%;
-    }
     .imagen_segunda_pagina{
         width: 200px;
         height: 35px;
